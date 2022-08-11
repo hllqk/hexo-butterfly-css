@@ -1,7 +1,7 @@
 # hexo-butterfly-css
 
 一键配置hexo主题butterfly的css，透明毛玻璃，好看的css
-
+!!!演示图有问题，真正效果请前往演示站点[hllqk blog - hllqk](https://hllqk.netlify.app/)
 演示图:
 
 ![https://cloud.shuia.tk/Qexo/2022/8/b496e71ca0b6687b71933e475154e276.jpeg](https://cloud.shuia.tk/Qexo/2022/8/b496e71ca0b6687b71933e475154e276.jpeg)
